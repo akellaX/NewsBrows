@@ -1,0 +1,6 @@
+com\springapp\mvc\service\NewsServiceImpl.class
+com\springapp\mvc\Controller\NewsController.class
+com\springapp\mvc\dao\NewsDao.class
+com\springapp\mvc\service\NewsService.class
+com\springapp\mvc\model\News.class
+com\springapp\mvc\dao\NewsDaoimpl.class
